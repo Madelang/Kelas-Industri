@@ -21,3 +21,6 @@ Route::group(['prefix' => LaravelLocalization::setLocale()], function () {
     Route::get('/post-service', [App\Services\PostService::class, 'getAllPosts']);
 });
 
+Route::get('/hello', function(){
+    return "hello";
+});
