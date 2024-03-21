@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-9" ?>
+<root>
+    <aktivitas>
+        <nama_aktivitas>Belajar</nama_aktivitas>
+        <tanggal>23 Maret 2024</tanggal>
+        <siswa>Khoirul</siswa>
+    </aktivitas>
+    <aktivitas>
+        <nama_aktivitas>Coding</nama_aktivitas>
+        <tanggal>23 Maret 2024</tanggal>
+        <siswa>Nisa</siswa>
+    </aktivitas>
